@@ -2,6 +2,10 @@
 
 An enterprise-grade, self-hosted Telegram AI Assistant built on n8n. This project features a dual-lane conversational interface (Text & Voice) powered by Groq's Whisper API, backed by a Pinecone Vector Database, and features an asynchronous, multimodal data ingestion pipeline capable of reading complex PDFs, PPTs, and handwritten notes via LlamaParse and Google Drive OAuth2.
 
+## LOOM video Link
+
+[Building a Multi-Modal RAG Assistant](https://www.loom.com/share/6d9053480f2c44de96e0efe607c13dcd)
+
 ## 🏗️ System Architecture
 
 This project is separated into two distinct n8n workflows to ensure production stability:
